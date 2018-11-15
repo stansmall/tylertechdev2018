@@ -1,0 +1,52 @@
+{
+  "drinkextras": [
+    {
+      "name": "whipcream",
+      "price": 0.25
+    },
+    {
+      "name": "flavorshot",
+      "price": 0.5
+    }
+  ],
+  "drinks": [
+    {
+      "name": "coffee",
+      "sizes": [
+        {
+          "name": "small",
+          "price": 1.85
+        },
+        {
+          "name": "medium",
+          "price": 2.15
+        },
+        {
+          "name": "large",
+          "price": 3.65
+        }
+      ]
+    }
+  ],
+  "food": [
+    {
+      "name": "bagel",
+      "sizes": [
+        {
+          "name": "half",
+          "price": 1.63
+        },
+        {
+          "name": "whole",
+          "price": 3.05
+        }
+      ],
+      "extras": [
+        {
+          "name": "creamcheese",
+          "price": 0.75
+        }
+      ]
+    }
+  ]
+}
