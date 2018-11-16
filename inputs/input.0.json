@@ -1,0 +1,92 @@
+{
+  "drinkextras": [
+    {
+      "name": "whipcream",
+      "price": 0.25
+    },
+    {
+      "name": "flavorshot",
+      "price": 0.5
+    },
+    {
+      "name": "espresso",
+      "price": 1.50
+    }
+  ],
+  "drinks": [
+    {
+      "name": "coffee",
+      "sizes": [
+        {
+          "name": "small",
+          "price": 1.85
+        },
+        {
+          "name": "medium",
+          "price": 2.15
+        },
+        {
+          "name": "large",
+          "price": 3.65
+        }
+      ]
+    },
+    {
+      "name": "juice",
+      "sizes": [
+        {
+          "name": "small",
+          "price": 1.83
+        },
+        {
+          "name": "medium",
+          "price": 2.12
+        },
+        {
+          "name": "large",
+          "price": 3.54
+        }
+      ]
+    }
+  ],
+  "food": [
+    {
+      "name": "bagel",
+      "sizes": [
+        {
+          "name": "half",
+          "price": 1.63
+        },
+        {
+          "name": "whole",
+          "price": 3.05
+        }
+      ],
+      "extras": [
+        {
+          "name": "creamcheese",
+          "price": 0.75
+        }
+      ]
+    },
+    {
+      "name": "croissant",
+      "sizes": [
+        {
+          "name": "half",
+          "price": 1.23
+        },
+        {
+          "name": "whole",
+          "price": 4.05
+        }
+      ],
+      "extras": [
+        {
+          "name": "jam",
+          "price": 0.60
+        }
+      ]
+    }
+  ]
+}
